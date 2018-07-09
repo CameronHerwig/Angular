@@ -3,7 +3,8 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\Products"
+    "\\src\\app\\Products",
+    "\\src\\app\\shared"
   ],
   "SelectedNode": "\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
