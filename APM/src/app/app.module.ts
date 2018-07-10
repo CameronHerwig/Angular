@@ -11,6 +11,7 @@ import { StarComponent } from './shared/star.component';
 import { ProductDetailComponent } from './products/product-detail.component';
 import { WelcomeComponent } from './home/welcome.component';
 import { ProductGuardService } from './products/product-guard.service';
+import { ProductService } from './Products/product.service';
 
 
 @NgModule({
@@ -38,7 +39,7 @@ import { ProductGuardService } from './products/product-guard.service';
       { path: '**', redirectTo: 'welcome', pathMatch: 'full'}
     ])
   ],
-  providers: [ProductGuardService],
+  providers: [ProductGuardService], 
   bootstrap: [AppComponent]
 })
 export class AppModule { }

@@ -8,6 +8,6 @@
     "\\src\\app\\home",
     "\\src\\app\\Products"
   ],
-  "SelectedNode": "\\src\\app\\app.module.ts",
+  "SelectedNode": "\\src\\app\\Products\\product-detail.component.ts",
   "PreviewInSolutionExplorer": false
 }
