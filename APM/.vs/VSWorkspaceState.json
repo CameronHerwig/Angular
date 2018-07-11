@@ -6,8 +6,10 @@
     "\\src\\api\\products",
     "\\src\\app",
     "\\src\\app\\home",
-    "\\src\\app\\Products"
+    "\\src\\app\\Products",
+    "\\src\\app\\shared",
+    "\\src\\assets"
   ],
-  "SelectedNode": "\\src\\app\\Products\\product-detail.component.ts",
+  "SelectedNode": "\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }
